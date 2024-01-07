@@ -8,7 +8,7 @@
 PRODUCT_NAME = crypto_coins_list
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.cryptoguys.cryptoCoinsList
+PRODUCT_BUNDLE_IDENTIFIER = cryptoguys.cryptoCoinsList
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2023 com.cryptoguys. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2023 cryptoguys. All rights reserved.
